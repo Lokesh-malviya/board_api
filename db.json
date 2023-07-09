@@ -1,0 +1,205 @@
+{
+	"5": [
+    {
+      "name": "",
+      "value": 100,
+      "category": "user"
+    },
+    {
+      "name": "",
+      "value": 200,
+      "category": "guest"
+    },
+    {
+      "name": "Week 1",
+      "value": 500,
+      "category": "user"
+    },
+    {
+      "name": "Week 1",
+      "value": 400,
+      "category": "guest"
+    },
+    {
+      "name": "Week 2",
+      "value": 150,
+      "category": "user"
+    },
+    {
+      "name": "Week 2",
+      "value": 100,
+      "category": "guest"
+    },
+    {
+      "name": "Week 3",
+      "value": 250,
+      "category": "user"
+    },
+    {
+      "name": "Week 3",
+      "value": 300,
+      "category": "guest"
+    },
+    {
+      "name": "Week 4",
+      "value": 380,
+      "category": "user"
+    },
+    {
+      "name": "Week 4",
+      "value": 220,
+      "category": "guest"
+    }
+
+
+	],
+  "4":[
+    {
+      "name": "",
+      "value": 100,
+      "category": "user"
+    },
+    {
+      "name": "",
+      "value": 200,
+      "category": "guest"
+    },
+    {
+      "name": "Week 1",
+      "value": 500,
+      "category": "user"
+    },
+    {
+      "name": "Week 1",
+      "value": 400,
+      "category": "guest"
+    },
+    {
+      "name": "Week 2",
+      "value": 150,
+      "category": "user"
+    },
+    {
+      "name": "Week 2",
+      "value": 100,
+      "category": "guest"
+    },
+    {
+      "name": "Week 3",
+      "value": 350,
+      "category": "user"
+    },
+    {
+      "name": "Week 3",
+      "value": 370,
+      "category": "guest"
+    },
+    {
+      "name": "Week 4",
+      "value": 380,
+      "category": "user"
+    },
+    {
+      "name": "Week 4",
+      "value": 90,
+      "category": "guest"
+    }
+  ],
+  "3":[
+    {
+      "name": "",
+      "value": 100,
+      "category": "user"
+    },
+    {
+      "name": "",
+      "value": 200,
+      "category": "guest"
+    },
+    {
+      "name": "Week 1",
+      "value": 500,
+      "category": "user"
+    },
+    {
+      "name": "Week 1",
+      "value": 400,
+      "category": "guest"
+    },
+    {
+      "name": "Week 2",
+      "value": 150,
+      "category": "user"
+    },
+    {
+      "name": "Week 2",
+      "value": 100,
+      "category": "guest"
+    },
+    {
+      "name": "Week 3",
+      "value": 250,
+      "category": "user"
+    },
+    {
+      "name": "Week 3",
+      "value": 300,
+      "category": "guest"
+    },
+    {
+      "name": "Week 4",
+      "value": 380,
+      "category": "user"
+    },
+    {
+      "name": "Week 4",
+      "value": 220,
+      "category": "guest"
+    }
+  ],
+  "4p": [
+      {
+        "name": "Caps",
+        "value": 75
+      },
+      {
+        "name": "Custom Short Pants",
+        "value": 20
+      },
+      {
+        "name": "Super Hoodies",
+        "value": 5
+      }
+    ],
+    "5p":[
+        {
+          "name": "Super Hoodies",
+          "value": 46
+        },
+        {
+          "name": "Pants",
+          "value": 10
+        },
+        {
+          "name": "Shirt",
+          "value": 44
+        }
+      ],
+      "3p":[
+          {
+            "name": "Basic Tees",
+            "value": 55
+          },
+          {
+            "name": "Custom Short Pants",
+            "value": 31
+          },
+          {
+            "name": "Super Hoodies",
+            "value": 14
+          }
+      ]
+    
+
+}
+
